@@ -21,5 +21,5 @@ Estudante de ADS
     </a>
 </div>
 <div align="center">
-    <img height="150" src="https://statics.memondo.com/p/99/cfs/2013/02/CF_20169_82a53223d7e64295a0d3a5c324010c2d_salvajes_a_la_mierda_todo_yo_quiero_ser_un_peonza.gif">
+    <img height="150" src="https://media.licdn.com/dms/image/C4D22AQHLQSsyD9IJmg/feedshare-shrink_800/0/1679357028449?e=1682553600&v=beta&t=DpuJ7ax09xhEqLCr1KhjU6VSonyA0szXc7_SOekA72I">
 </div>
