@@ -21,5 +21,5 @@ Estudante de ADS
     </a>
 </div>
 <div align="center">
-    <img height="150" src="https://media.licdn.com/dms/image/C4D22AQHLQSsyD9IJmg/feedshare-shrink_800/0/1679357028449?e=1682553600&v=beta&t=DpuJ7ax09xhEqLCr1KhjU6VSonyA0szXc7_SOekA72I">
+    <img height="180" src="https://media.licdn.com/dms/image/C4D22AQHLQSsyD9IJmg/feedshare-shrink_800/0/1679357028449?e=1682553600&v=beta&t=DpuJ7ax09xhEqLCr1KhjU6VSonyA0szXc7_SOekA72I">
 </div>
