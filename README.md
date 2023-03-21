@@ -20,6 +20,7 @@ Estudante de ADS
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </a>
 </div>
+<br>
 <div align="center">
-    <img height="180" src="https://media.licdn.com/dms/image/C4D22AQHLQSsyD9IJmg/feedshare-shrink_800/0/1679357028449?e=1682553600&v=beta&t=DpuJ7ax09xhEqLCr1KhjU6VSonyA0szXc7_SOekA72I">
+    <img height="190" src="https://media.licdn.com/dms/image/C4D22AQHLQSsyD9IJmg/feedshare-shrink_800/0/1679357028449?e=1682553600&v=beta&t=DpuJ7ax09xhEqLCr1KhjU6VSonyA0szXc7_SOekA72I">
 </div>
