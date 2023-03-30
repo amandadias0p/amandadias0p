@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandadias0p&layout=compact&theme=merko&hide_border=false&hide_progress=true" />
 </div>  
 <br>
-<br>
+<br>  
 <div align="left">
     <img align="right" height="190" src="https://media.licdn.com/dms/image/C4D22AQHLQSsyD9IJmg/feedshare-shrink_800/0/1679357028449?e=1682553600&v=beta&t=DpuJ7ax09xhEqLCr1KhjU6VSonyA0szXc7_SOekA72I">
     <h1>📚 Estudando...</h1>
